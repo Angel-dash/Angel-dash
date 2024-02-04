@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Python, JavaScript, React**
+- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Python, JavaScript, React,Flutter**
 
 - 📫 How to reach me **njlghmr@gmail.com**
 
