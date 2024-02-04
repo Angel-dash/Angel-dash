@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt='top language' width='100%',src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-dash&layout=compact"/>
+<img alt='top language' width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-dash&layout=compact"/>
 
 <!--
 **Angel-dash/Angel-dash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
