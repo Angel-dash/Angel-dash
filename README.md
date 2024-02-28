@@ -1,12 +1,25 @@
 <h1 align="left">Hi 👋, I'm Angel Ghimire</h1>
-<h3 align="left">Welcome to my GitHub!. I'm passionate about exploring the exciting world of data science, machine learning, and natural language processing (NLP). Here, you'll find a collection of my projects, experiments, and explorations in these fields.
-
-I'm always learning and growing, so expect a mix of ongoing projects, completed experiments, and even some personal notes and learnings. Feel free to browse, ask questions, or even contribute!</h3>
+<!-- <h3 align="left">Welcome to my GitHub!. I'm passionate about exploring the exciting world of data science, machine learning, and natural language processing (NLP). Here, you'll find a collection of my projects, experiments, and explorations in these fields.
+I'm always learning and growing, so expect a mix of ongoing projects, completed experiments, and even some personal notes and learnings. Feel free to browse, ask questions, or even contribute!</h3> -->
 <!-- <!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angel-dash&label=Profile%20views&color=0e75b6&style=flat" alt="angel-dash" /> </p>
 > -->
 <!-- - 🔭 I’m currently working on **Neural style transfer** -->
 
+Data Adventures ️
+Hi! I'm exploring the world of data science, machine learning, and NLP. This is my space to play, learn, and share.
+
+Here's what you'll find:
+
+Projects: Check out what I'm working on!
+Experiments: See how I tackle different challenges.
+Learnings: Follow along as I grow and discover new things.
+Feel free to:
+
+Browse: Explore my projects and experiments.
+Ask questions: I'm always learning and happy to chat.
+Contribute: Share your insights and join the journey!
+Come along for the ride!
 - 🌱 I’m currently learning **Deep Learning, Generative AI, LLM**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Natural language Processing, Computer Vision, Python, JavaScript, React,Flutter**
