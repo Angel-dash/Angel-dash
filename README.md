@@ -6,8 +6,7 @@ I'm always learning and growing, so expect a mix of ongoing projects, completed 
 > -->
 <!-- - 🔭 I’m currently working on **Neural style transfer** -->
 
-Data Adventures ️
-Hi! I'm exploring the world of data science, machine learning, and NLP. This is my space to play, learn, and share.
+I'm exploring the world of data science, machine learning, and NLP. This is my space to play, learn, and share.
 
 Here's what you'll find:
 
