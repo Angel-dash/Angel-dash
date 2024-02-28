@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Angel Ghimire</h1>
 <h3 align="left">Welcome to my GitHub! Here, you'll find a collection of my projects and resources related to Machine Learning, Deep Learning, and Data Science. I'm passionate about exploring and applying these technologies to solve complex problems and create innovative solutions.</h3>
-
+<!-- <!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angel-dash&label=Profile%20views&color=0e75b6&style=flat" alt="angel-dash" /> </p>
+> -->
+<!-- - 🔭 I’m currently working on **Neural style transfer** -->
 
-- 🔭 I’m currently working on **Neural style transfer**
-
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning, Generative AI, LLM**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Python, JavaScript, React,Flutter**
 
