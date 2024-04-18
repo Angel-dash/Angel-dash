@@ -23,7 +23,7 @@ Come along for the ride!
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Natural language Processing, Computer Vision, Python, JavaScript, React,Flutter**
 
-- 📫 How to reach me **njlghmr@gmail.com**
+- 📫 How to reach me **angelghimire2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
