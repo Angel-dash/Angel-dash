@@ -1,36 +1,44 @@
-# Hi 👋, I'm Angel Ghimire
+# Hi there! 👋 I'm Angel Ghimire
 
-I'm exploring the world of data science, machine learning, and NLP. This is my space to play, learn, and share.
+Welcome to my corner of the data science universe, where I delve into the realms of machine learning, NLP, and more. Here's what you can expect:
 
-## What You'll Find:
-
-- **Projects:** Check out what I'm working on!
-- **Experiments:** See how I tackle different challenges.
-- **Learnings:** Follow along as I grow and discover new things.
+## Explore:
+- **Projects:** Dive into what I'm currently tinkering with!
+- **Learnings:** Follow along as I document my growth and discoveries.
 
 Feel free to:
 
-- **Browse:** Explore my projects and experiments.
-- **Ask Questions:** I'm always learning and happy to chat.
-- **Contribute:** Share your insights and join the journey!
 
-Come along for the ride!
+- **Ask Questions:** I'm always up for a chat about anything related to:
+  - Deep Learning
+  - Machine Learning
+  - Data Science
+  - Natural Language Processing
+  - Computer Vision
+  - Python
+  - JavaScript
+  - React
+  - Flutter
+- **Contribute:** Share your insights and join me on this exciting journey!
 
-## 🌱 I’m currently learning
+Join me as we embark on this adventure together!
+
+## 🌱 Currently Exploring:
 - Deep Learning
 - Generative AI
 - LLM
 
-## 💬 Ask me about
+## 💬 Let's Chat About:
 - Deep Learning
 - Machine Learning
 - Data Science
-- Natural language Processing
+- Natural Language Processing
 - Computer Vision
 - Python
 - JavaScript
 - React
 - Flutter
+
 
 ## 📫 How to reach me
 - [angelghimire2000@gmail.com](mailto:angelghimire2000@gmail.com)
@@ -69,8 +77,6 @@ Come along for the ride!
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="30">](https://vuejs.org/)
 
 
-## GitHub Stats
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angel-dash&show_icons=true&count_private=true&theme=radical)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-dash&layout=compact&theme=radical)
