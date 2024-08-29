@@ -34,6 +34,3 @@ Feel free to:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Angel-dash&show_icons=true&locale=en&layout=compact" alt="Angel-dash" /></p>
 
-
-![Your GitHub contributions](https://github-contribution-graph.vercel.app/api/Angel-dash)
-
