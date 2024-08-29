@@ -34,5 +34,7 @@ Feel free to:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Angel-dash&show_icons=true&locale=en&layout=compact" alt="Angel-dash" /></p>
 
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-dash&theme=dark)](https://github.com/Angel-dash/github-readme-stats)
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-dash&show_icons=true&theme=radical)](https://github.com/Angel-dash/github-readme-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel-dash&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-dash&layout=compact&theme=radical)
