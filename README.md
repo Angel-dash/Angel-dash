@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Angel Ghimire</h1>
 
 
-I'm exploring the world of data science, machine learning, and NLP. This is my space to play, learn, and share.
+I'm exploring the world of machine learning, Deep learning and Generative AI. This is my space to play, learn, and share.
 
 Here's what you'll find:
 
@@ -16,9 +16,9 @@ Feel free to:
 - **Browse:** Explore my projects and experiments.
 - **Ask Questions:** I'm always learning and happy to chat.
 - **Contribute:** Share your insights and join the journey!
-- 🌱 I’m currently learning **Deep Learning, Generative AI, LLM**
+- 🌱 I’m currently learning **Generative AI, LLM, Agentic AI**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Natural language Processing, Computer Vision, Python**
+- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Natural language Processing, RAG, Generative AI, Agentic AI, Python**
 
 - 📫 How to reach me **angelghimire2000@gmail.com**
 
