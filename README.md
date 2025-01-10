@@ -18,7 +18,7 @@ Feel free to:
 - **Contribute:** Share your insights and join the journey!
 - 🌱 I’m currently learning **Generative AI, LLM, Agentic AI**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Natural language Processing, RAG, Generative AI, Agentic AI, Python**
+- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Natural language Processing, Time Series Forecasting, RAG, Generative AI, Agentic AI, Python**
 
 - 📫 How to reach me **angelghimire2000@gmail.com**
 
